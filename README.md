@@ -14,7 +14,7 @@ Prerequisites
 -Admin privileges may be needed.
 
 Installation
--Clone repo:git clone https://github.com/yourusername/keylogger.git
+-Clone repo:git clone https://github.com/Monalika18/SCT_trackCode_task4.git
 - Compile:g++ keylogger.cpp -o keylogger
 
 
